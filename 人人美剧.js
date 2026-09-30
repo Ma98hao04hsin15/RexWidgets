@@ -1,7 +1,7 @@
 WidgetMetadata = {
   id: "rrmj.resource",
   title: "人人美剧",
-  icon: "https://drive.google.com/file/d/1S5AY3iWWh3GBAj12r74Sy2FDfjqChEuM/view?usp=drive_link",
+  icon: "https://cdn.phototourl.com/member/2026-09-30-d216afb7-cc9b-4e7c-b2c3-0307b7e5a3d2.png",
   version: "1.0.2",
   requiredVersion: "0.0.1",
   description: "获取人人美剧在线资源（修复CDN跳转，失败自动重试）",
