@@ -8,7 +8,7 @@ var CACHE_TTL = 300; // 5 minutes in seconds for Widget.storage
 var WidgetMetadata = {
   id: "streama.nongmin.vod",
   title: "农民影视",
-  icon: "https://icon-icons.com/authors/723-pixsellz",
+  icon: "https://drive.google.com/file/d/1S5AY3iWWh3GBAj12r74Sy2FDfjqChEuM/view?usp=sharing",
   description: "农民影视分类浏览与搜索播放源（Streama原生契约）",
   version: "2.0.0",
   requiredVersion: "1.0.0",
