@@ -61,6 +61,7 @@ var PAGE_PARAM = { name: "page", title: "頁碼", type: "page" };
 var WidgetMetadata = {
   id: "rottentomatoes_tv",
   title: "爛番茄",
+  icon: "https://raw.githubusercontent.com/Ma98hao04hsin15/RexWidgets/refs/heads/main/rotten-tomatoes.png",
   description: "Rotten Tomatoes 劇集與在家看電影：熱門、最新、評分排序，可按平台與類型篩選",
   author: "Claude",
   site: "https://www.rottentomatoes.com",
