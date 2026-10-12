@@ -16,6 +16,7 @@ var WidgetMetadata = {
     {
       id: "movies",
       title: "电影",
+      icon: "https://cdn.phototourl.com/member/2026-09-30-22790579-6120-4e89-8c48-5b91c5ca7640.png",
       description: "农民影视电影分类",
       functionName: "loadCategory",
       type: "video",
