@@ -357,7 +357,7 @@ async function loadResource(params) {
 WidgetMetadata = {
   id: "JianPian",
   title: "荐片影院",
-  icon: "",
+  icon: "https://cdn.phototourl.com/member/2026-09-30-22790579-6120-4e89-8c48-5b91c5ca7640.png",
   version: "1.4.2",
   requiredVersion: "0.0.1",
   description: "荐片视频源",
